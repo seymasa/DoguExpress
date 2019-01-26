@@ -1,0 +1,27 @@
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\bin\Debug\EasternExpressTicked.exe.config
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\bin\Debug\EasternExpressTicked.exe
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\bin\Debug\EasternExpressTicked.pdb
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.csprojResolveAssemblyReference.cache
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.Form1.resources
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.Properties.Resources.resources
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.csproj.GenerateResource.Cache
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.exe
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.pdb
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\bin\Debug\WebDriver.dll
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\bin\Debug\WebDriver.Support.dll
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\bin\Debug\WebDriver.xml
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\EasternExpressTicked\EasternExpressTicked\bin\Debug\WebDriver.Support.xml
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.csprojResolveAssemblyReference.cache
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.Form1.resources
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.Properties.Resources.resources
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.csproj.GenerateResource.Cache
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.exe
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\obj\Debug\EasternExpressTicked.pdb
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\bin\Debug\EasternExpressTicked.exe.config
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\bin\Debug\at.wav
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\bin\Debug\EasternExpressTicked.exe
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\bin\Debug\EasternExpressTicked.pdb
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\bin\Debug\WebDriver.dll
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\bin\Debug\WebDriver.Support.dll
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\bin\Debug\WebDriver.xml
+C:\Users\seyma\Desktop\EasternExpressTicked\EasternExpressTicked\bin\Debug\WebDriver.Support.xml
